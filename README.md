@@ -1,9 +1,8 @@
-<!-- Animated Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXp5Z3B6eW14YzJ5Z3B6eW14YzJ5Z3B6eW14YzJ5Z3B6eW14YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpDmM2wSt6Rm5fCcoV/giphy.gif" width="60%" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXp5Z3B6eW14YzJ5Z3B6eW14YzJ5Z3B6eW14YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpDmM2wSt6Rm5fCcoV/giphy.gif" width="60%" alt="Coding Animation" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Wanglin Saputra!</h1>
+<h1 align="center"> Hi, I'm Wanglin Saputra!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wanglinsaputra&color=6e5494&style=flat-square" alt="Profile Views" />
@@ -26,7 +25,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 <a href="https://github.com/wanglinsaputra/bwen">bwen</a></h3>
+      <h3> <a href="https://github.com/wanglinsaputra/bwen">bwen</a></h3>
       <p>Automated Qwen Cloud account registration tool with Gmail dot aliases, IMAP verification, CAPTCHA solving via Playwright, and API key extraction.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/github/stars/wanglinsaputra/bwen?style=flat-square&logo=github" />
@@ -54,7 +53,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -68,20 +67,44 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wanglinsaputra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=wanglinsaputra&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" alt="Streak Stats" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wanglinsaputra&theme=tokyonight" 
+    width="48%" 
+    alt="Profile Details"
+  />
+  &nbsp;
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wanglinsaputra&theme=tokyonight" 
+    width="48%" 
+    alt="Repos Per Language"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanglinsaputra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="60%" alt="Top Languages" />
+  <img 
+    src="https://streak-stats.demolab.com?user=wanglinsaputra&theme=tokyonight-duo&hide_border=true" 
+    width="80%" 
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-##  Let's Connect!
+## 💻 Top Technologies
+
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,git,github,vscode&theme=dark" 
+    alt="Top Technologies"
+  />
+</p>
+
+---
+
+## ✨ Let's Connect!
 
 <p align="center">
   <a href="https://github.com/wanglinsaputra" target="_blank">
@@ -95,7 +118,7 @@
 
 ---
 
-##  Fun Stuff
+## 🎮 Fun Stuff
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJ5Z3B6eW14YzJ5Z3B6eW14YzJ5Z3B6eW14YzJ5Z3B6eW14YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlBO7eyXzSZkJri/giphy.gif" width="30%" alt="Cat Typing" />
@@ -108,5 +131,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzV0eHpsOHdjbG5ndGltdHBraXZ0NjVuNHA2YWZhZGNjOXl3NTN4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OuQmhmAAdJFLi/giphy.gif" width="40%" alt="Mua" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW14YzJ5Z3B6eW14YzJ5Z3B6eW14YzJ5Z3B6eW14YzJ5Z3B6eW14YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYt5jPR6QX5pnqM/giphy.gif" width="40%" alt="Goodbye Wave" />
 </p>
