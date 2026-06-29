@@ -10,8 +10,10 @@
   <img src="https://img.shields.io/github/followers/wanglinsaputra?label=Followers&style=flat-square&logo=github" alt="Followers" />
 </p>
 
+<h4 align="center">Developer · Open Source Enthusiast · SaaS · Web Dev · AI & Automation Explorer</h4>
+
 <p align="center">
-  <strong>Developer · Open Source Enthusiast · AI & Automation Explorer</strong>
+  I'm a developer passionate about building automation tools, exploring AI integrations, and developing robust web applications. I love solving problems with code and contributing to the open-source community.
 </p>
 
 <p align="center">
