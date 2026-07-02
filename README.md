@@ -28,7 +28,7 @@
   <tr>
     <td width="50%">
       <h3> <a href="https://github.com/wanglinsaputra/bwen">bwen</a></h3>
-      <p>Automated Qwen Cloud account registration tool with Gmail dot aliases, IMAP verification, CAPTCHA solving via Playwright, and API key extraction.</p>
+      <p>Automated Qwen Cloud account registration tool with Gmail dot aliases, IMAP verification, and API key extraction.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/github/stars/wanglinsaputra/bwen?style=flat-square&logo=github" />
     </td>
