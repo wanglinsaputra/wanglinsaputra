@@ -27,13 +27,13 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🛡️ <a href="https://github.com/wanglinsaputra/SentinelAI">SentinelAI</a></h3>
+      <h3><a href="https://github.com/wanglinsaputra/SentinelAI">SentinelAI</a></h3>
       <p>AI-powered cybersecurity platform for automated reconnaissance, vulnerability scanning, threat intelligence, and executive security reporting.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/github/stars/wanglinsaputra/SentinelAI?style=flat-square&logo=github" />
     </td>
     <td width="50%">
-      <h3>🔀 <a href="https://github.com/wanglinsaputra/9router">9router</a></h3>
+      <h3><a href="https://github.com/wanglinsaputra/9router">9router</a></h3>
       <p>Unlimited FREE AI coding router — connects Claude Code, Codex, Cursor, Cline, Copilot, Antigravity & 40+ providers with auto-fallback.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/github/stars/wanglinsaputra/9router?style=flat-square&logo=github" />
@@ -41,12 +41,12 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>✂️ <a href="https://github.com/wanglinsaputra/OpenCut">OpenCut</a></h3>
-      <p>Open-source CapCut alternative for video editing.</p>
+      <h3><a href="https://github.com/wanglinsaputra/OmniPost-AI">OmniPost-AI</a></h3>
+      <p>AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
     <td width="50%">
-      <h3>📍 <a href="https://github.com/wanglinsaputra/GeoAI-Finder">GeoAI-Finder</a></h3>
+      <h3><a href="https://github.com/wanglinsaputra/GeoAI-Finder">GeoAI-Finder</a></h3>
       <p>Privacy-first AI photo geolocation service using Next.js, Fastify, and Gemini 2.5 Flash — zero image storage, in-memory processing.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
