@@ -30,13 +30,11 @@
       <h3><a href="https://github.com/wanglinsaputra/SentinelAI">SentinelAI</a></h3>
       <p>AI-powered cybersecurity platform for automated reconnaissance, vulnerability scanning, threat intelligence, and executive security reporting.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/wanglinsaputra/SentinelAI?style=flat-square&logo=github" />
     </td>
     <td width="50%">
       <h3><a href="https://github.com/wanglinsaputra/9router">9router</a></h3>
       <p>Unlimited FREE AI coding router — connects Claude Code, Codex, Cursor, Cline, Copilot, Antigravity & 40+ providers with auto-fallback.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/github/stars/wanglinsaputra/9router?style=flat-square&logo=github" />
     </td>
   </tr>
   <tr>
