@@ -19,12 +19,12 @@
 </p>
 
 <p align="center">
-  <em>Building tools that make life easier, one commit at a time 🚀</em>
+  <em>Building tools that make life easier, one commit at a time</em>
 </p>
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <p align="center">
   <img 
@@ -95,7 +95,7 @@
 
 ---
 
-## 💻 Top Technologies
+## Top Technologies
 
 <p align="center">
   <img 
@@ -106,7 +106,7 @@
 
 ---
 
-## ✨ Let's Connect!
+## Let's Connect!
 
 <p align="center">
   <a href="https://github.com/wanglinsaputra" target="_blank">
@@ -120,7 +120,7 @@
 
 ---
 
-## 🎮 Fun Stuff
+## Fun Stuff
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJ5Z3B6eW14YzJ5Z3B6eW14YzJ5Z3B6eW14YzJ5Z3B6eW14YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlBO7eyXzSZkJri/giphy.gif" width="30%" alt="Cat Typing" />
