@@ -34,9 +34,9 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/wanglinsaputra/9router">9router</a></h3>
-      <p>Unlimited FREE AI coding router — connects Claude Code, Codex, Cursor, Cline, Copilot, Antigravity & 40+ providers with auto-fallback.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <h3><a href="https://github.com/wanglinsaputra/artikel-web">Website Artikel</a></h3>
+      <p>Production-ready AI portal built with Next.js 16, React 19, TypeScript, Tailwind CSS, and MongoDB. Includes CMS, authentication, AI content, marketplace, and admin dashboard support mark down .</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
   </tr>
   <tr>
