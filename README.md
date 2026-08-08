@@ -112,43 +112,19 @@ If you like my work, you can support me. Every donation means a lot and helps me
 
   <br/>
 
-  Scan the QR or copy the address. Click the address to select it, then <kbd>Ctrl</kbd>+<kbd>C</kbd>.
+  Click an address to select it, then <kbd>Ctrl</kbd>+<kbd>C</kbd> to copy.
 
-  <table>
-    <tr>
-      <td align="center">
-        <b>BTC</b><br/>
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=bc1q3x6u2dkqx2mdxjhv5uwxca6hw046u5c57pe9rt" alt="BTC QR" />
-        <br/><code>bc1q3x6u2dkqx2mdxjhv5uwxca6hw046u5c57pe9rt</code>
-      </td>
-      <td align="center">
-        <b>ETH</b><br/>
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=0x60F31C4a212Ca901652bC5B031dcA874B5B9306F" alt="ETH QR" />
-        <br/><code>0x60F31C4a212Ca901652bC5B031dcA874B5B9306F</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <b>BNB</b><br/>
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=0x60F31C4a212Ca901652bC5B031dcA874B5B9306F" alt="BNB QR" />
-        <br/><code>0x60F31C4a212Ca901652bC5B031dcA874B5B9306F</code>
-      </td>
-      <td align="center">
-        <b>USDT (BEP-20)</b><br/>
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=0x60F31C4a212Ca901652bC5B031dcA874B5B9306F" alt="USDT QR" />
-        <br/><code>0x60F31C4a212Ca901652bC5B031dcA874B5B9306F</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <b>SOL</b><br/>
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=bi2bevUdNnQAEtjSLM45w7kovpnKhZn4r2oUS4t5FtK" alt="SOL QR" />
-        <br/><code>bi2bevUdNnQAEtjSLM45w7kovpnKhZn4r2oUS4t5FtK</code>
-      </td>
-    </tr>
-  </table>
+  | Network | Address |
+  |---------|---------|
+  | **BTC** | <code title="Click to copy">bc1q3x6u2dkqx2mdxjhv5uwxca6hw046u5c57pe9rt</code> |
+  | **ETH** | <code title="Click to copy">0x60F31C4a212Ca901652bC5B031dcA874B5B9306F</code> |
+  | **BNB** | <code title="Click to copy">0x60F31C4a212Ca901652bC5B031dcA874B5B9306F</code> |
+  | **USDT (BEP-20)** | <code title="Click to copy">0x60F31C4a212Ca901652bC5B031dcA874B5B9306F</code> |
+  | **SOL** | <code title="Click to copy">bi2bevUdNnQAEtjSLM45w7kovpnKhZn4r2oUS4t5FtK</code> |
 
 </details>
+
+> <b>Note:</b> GitHub does not run scripts in README, so automatic one-click copy with a "Copied!" popup isn't possible here. These are the same addresses used for QR codes before — unchanged.
 
 <p align="center">
   <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="10%" alt="divider" />
