@@ -144,8 +144,6 @@ If you like my work, you can support me. Every donation means a lot and helps me
 
 </details>
 
-> <b>Note:</b> Click anywhere inside a code box to select the address, then <kbd>Ctrl</kbd>+<kbd>C</kbd> to copy. GitHub does not run scripts, so automatic copy isn't possible here.
-
 <p align="center">
   <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="10%" alt="divider" />
 </p>
