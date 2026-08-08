@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="60%" alt="Anime Banner" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif" width="40%" alt="Anime Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Wanglin Saputra!</h1>
@@ -121,7 +121,7 @@ If you like my work, you can support me. Every donation means a lot and helps me
   <b>ETH</b>
 
   ```bash
-  0x60F31C4a212Ca901652bC5B031dcA874B5B9306F
+  0x60f31c4a212ca901652bc5b031dca874b5b9306f
   ```
 
   <b>BNB</b>
