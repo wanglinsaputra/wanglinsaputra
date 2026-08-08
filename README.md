@@ -16,7 +16,9 @@
   <img src="https://img.shields.io/github/stars/wanglinsaputra?label=Total%20Stars&style=flat-square&logo=star" alt="Stars" />
 </p>
 
-<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="100%" height="50px" style="object-fit:cover" alt="divider" />
+<p align="center">
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="10%" alt="divider" />
+</p>
 
 ## About Me
 
@@ -36,7 +38,9 @@
   Fun fact: <b>I debug faster with a cup of coffee by my side</b>
 </p>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="50px" style="object-fit:cover" alt="divider" />
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="10%" alt="divider" />
+</p>
 
 ## Tech Stack
 
@@ -53,7 +57,9 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 </p>
 
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" height="50px" style="object-fit:cover" alt="divider" />
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="10%" alt="divider" />
+</p>
 
 ## GitHub Stats & Activity
 
@@ -67,15 +73,15 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=wanglinsaputra&show_icons=true&count_private=true&theme=tokyonight"
-    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wanglinsaputra&theme=tokyonight"
+    width="44%"
     alt="GitHub Stats"
   />
   &nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanglinsaputra&layout=compact&theme=tokyonight&hide_border=true"
-    width="40%"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wanglinsaputra&theme=tokyonight"
+    width="44%"
+    alt="Most Used Languages"
   />
 </p>
 
@@ -87,7 +93,9 @@
   />
 </p>
 
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" height="50px" style="object-fit:cover" alt="divider" />
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="10%" alt="divider" />
+</p>
 
 ## Support Me
 
@@ -142,7 +150,9 @@ If you like my work, you can support me. Every donation means a lot and helps me
 
 </details>
 
-<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="100%" height="50px" style="object-fit:cover" alt="divider" />
+<p align="center">
+  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="10%" alt="divider" />
+</p>
 
 ## Let's Connect!
 
@@ -160,7 +170,9 @@ If you like my work, you can support me. Every donation means a lot and helps me
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" height="50px" style="object-fit:cover" alt="divider" />
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="10%" alt="divider" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="20%" alt="Cat Typing" />
