@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100%" alt="Anime Banner" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="60%" alt="Anime Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Wanglin Saputra!</h1>
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/github/stars/wanglinsaputra?label=Total%20Stars&style=flat-square&logo=star" alt="Stars" />
 </p>
 
-<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="100%" alt="divider" />
+<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="100%" height="50px" style="object-fit:cover" alt="divider" />
 
 ## About Me
 
@@ -36,7 +36,7 @@
   Fun fact: <b>I debug faster with a cup of coffee by my side</b>
 </p>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="divider" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="50px" style="object-fit:cover" alt="divider" />
 
 ## Tech Stack
 
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 </p>
 
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" alt="divider" />
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" height="50px" style="object-fit:cover" alt="divider" />
 
 ## GitHub Stats & Activity
 
@@ -87,7 +87,7 @@
   />
 </p>
 
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" alt="divider" />
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" height="50px" style="object-fit:cover" alt="divider" />
 
 ## Support Me
 
@@ -104,17 +104,45 @@ If you like my work, you can support me. Every donation means a lot and helps me
 
   <br/>
 
-  | Network | Address |
-  |---------|---------|
-  | BTC | `bc1q3x6u2dkqx2mdxjhv5uwxca6hw046u5c57pe9rt` |
-  | ETH | `0x60f31c4a212ca901652bc5b031dca874b5b9306f` |
-  | BNB | `0x60f31c4a212ca901652bc5b031dca874b5b9306f` |
-  | USDT (BEP-20) | `0x60F31C4a212Ca901652bC5B031dcA874B5B9306F` |
-  | SOL | `bi2bevUdNnQAEtjSLM45w7kovpnKhZn4r2oUS4t5FtK` |
+  Scan the QR or copy the address. Click the address to select it, then <kbd>Ctrl</kbd>+<kbd>C</kbd>.
+
+  <table>
+    <tr>
+      <td align="center">
+        <b>BTC</b><br/>
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=bc1q3x6u2dkqx2mdxjhv5uwxca6hw046u5c57pe9rt" alt="BTC QR" />
+        <br/><code>bc1q3x6u2dkqx2mdxjhv5uwxca6hw046u5c57pe9rt</code>
+      </td>
+      <td align="center">
+        <b>ETH</b><br/>
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=0x60F31C4a212Ca901652bC5B031dcA874B5B9306F" alt="ETH QR" />
+        <br/><code>0x60F31C4a212Ca901652bC5B031dcA874B5B9306F</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>BNB</b><br/>
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=0x60F31C4a212Ca901652bC5B031dcA874B5B9306F" alt="BNB QR" />
+        <br/><code>0x60F31C4a212Ca901652bC5B031dcA874B5B9306F</code>
+      </td>
+      <td align="center">
+        <b>USDT (BEP-20)</b><br/>
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=0x60F31C4a212Ca901652bC5B031dcA874B5B9306F" alt="USDT QR" />
+        <br/><code>0x60F31C4a212Ca901652bC5B031dcA874B5B9306F</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <b>SOL</b><br/>
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=bi2bevUdNnQAEtjSLM45w7kovpnKhZn4r2oUS4t5FtK" alt="SOL QR" />
+        <br/><code>bi2bevUdNnQAEtjSLM45w7kovpnKhZn4r2oUS4t5FtK</code>
+      </td>
+    </tr>
+  </table>
 
 </details>
 
-<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="100%" alt="divider" />
+<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="100%" height="50px" style="object-fit:cover" alt="divider" />
 
 ## Let's Connect!
 
@@ -127,17 +155,17 @@ If you like my work, you can support me. Every donation means a lot and helps me
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
   &nbsp;
-  <a href="mailto:wanglin.saputra@gmail.com" target="_blank">
+  <a href="mailto:hello@wanglins.web.id" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" alt="divider" />
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" height="50px" style="object-fit:cover" alt="divider" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="30%" alt="Cat Typing" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="20%" alt="Cat Typing" />
   &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="22%" alt="Goodbye" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="15%" alt="Goodbye" />
 </p>
 
 <p align="center">
