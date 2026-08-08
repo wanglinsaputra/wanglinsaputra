@@ -112,19 +112,39 @@ If you like my work, you can support me. Every donation means a lot and helps me
 
   <br/>
 
-  Click an address to select it, then <kbd>Ctrl</kbd>+<kbd>C</kbd> to copy.
+  <b>BTC</b>
 
-  | Network | Address |
-  |---------|---------|
-  | **BTC** | <code title="Click to copy">bc1q3x6u2dkqx2mdxjhv5uwxca6hw046u5c57pe9rt</code> |
-  | **ETH** | <code title="Click to copy">0x60F31C4a212Ca901652bC5B031dcA874B5B9306F</code> |
-  | **BNB** | <code title="Click to copy">0x60F31C4a212Ca901652bC5B031dcA874B5B9306F</code> |
-  | **USDT (BEP-20)** | <code title="Click to copy">0x60F31C4a212Ca901652bC5B031dcA874B5B9306F</code> |
-  | **SOL** | <code title="Click to copy">bi2bevUdNnQAEtjSLM45w7kovpnKhZn4r2oUS4t5FtK</code> |
+  ```bash
+  bc1q3x6u2dkqx2mdxjhv5uwxca6hw046u5c57pe9rt
+  ```
+
+  <b>ETH</b>
+
+  ```bash
+  0x60F31C4a212Ca901652bC5B031dcA874B5B9306F
+  ```
+
+  <b>BNB</b>
+
+  ```bash
+  0x60F31C4a212Ca901652bC5B031dcA874B5B9306F
+  ```
+
+  <b>USDT (BEP-20)</b>
+
+  ```bash
+  0x60F31C4a212Ca901652bC5B031dcA874B5B9306F
+  ```
+
+  <b>SOL</b>
+
+  ```bash
+  bi2bevUdNnQAEtjSLM45w7kovpnKhZn4r2oUS4t5FtK
+  ```
 
 </details>
 
-> <b>Note:</b> GitHub does not run scripts in README, so automatic one-click copy with a "Copied!" popup isn't possible here. These are the same addresses used for QR codes before — unchanged.
+> <b>Note:</b> Click anywhere inside a code box to select the address, then <kbd>Ctrl</kbd>+<kbd>C</kbd> to copy. GitHub does not run scripts, so automatic copy isn't possible here.
 
 <p align="center">
   <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="10%" alt="divider" />
